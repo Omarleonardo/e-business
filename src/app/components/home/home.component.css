@@ -1,0 +1,31 @@
+body{
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #fff;
+}
+.header{
+    font-size: 47px;
+    font-family: 'Krub', sans-serif;
+    margin-top: 20px;
+    margin: 20px;
+    color: #fff;
+}
+.header__logo{
+    display: flex;
+    justify-content: right;
+}
+
+.formsignup{
+    padding-left: 35%;
+    padding-right: 35%;
+    margin-top: 10rem;
+}
+.btn{
+    margin-top: 20px;
+}
+.flex{
+    display: flex;
+}
+.alinear-derecha{
+    justify-content: flex-start;
+}

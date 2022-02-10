@@ -1,0 +1,24 @@
+.title{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
+h5{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
+.far{
+    cursor: pointer;
+}
+.header{
+    font-size: 47px;
+    font-family: 'Krub', sans-serif;
+    margin-top: 20px;
+    margin: 20px;
+    color: #fff;
+}
+.green-icon{
+    color: green;
+}
+.red-icon{
+    color: #dc3545;
+}
